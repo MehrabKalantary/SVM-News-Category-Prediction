@@ -18,7 +18,7 @@ We use title and body to predict category.
 * Encoding
 
 ### Modeling
-* Support vector machine
+* Support vector machine (hyperparameter tuning using gridsearchcv)
 
 ### Evaluation
 * Classification report
